@@ -1,0 +1,19 @@
+{
+  "name": "btetsy-flinn-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Server for Running all BTetsy modules together",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEC-GOKU/BTetsy-Flinn-Proxy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FEC-GOKU/BTetsy-Flinn-Proxy/issues"
+  },
+  "homepage": "https://github.com/FEC-GOKU/BTetsy-Flinn-Proxy#readme"
+}
