@@ -4,7 +4,8 @@
   "description": "Proxy Server for Running all BTetsy modules together",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node server/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/FEC-GOKU/BTetsy-Flinn-Proxy/issues"
   },
-  "homepage": "https://github.com/FEC-GOKU/BTetsy-Flinn-Proxy#readme"
+  "homepage": "https://github.com/FEC-GOKU/BTetsy-Flinn-Proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
 }
